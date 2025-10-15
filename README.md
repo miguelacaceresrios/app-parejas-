@@ -1,2 +1,2 @@
 # app-parejas-
-app para parejas este es el codigo fuente y algunas funfiones 
+app para parejas este es el codigo fuente y algunas func
